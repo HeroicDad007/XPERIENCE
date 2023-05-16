@@ -50,6 +50,29 @@ Accessible Gameplay: Despite the various layers of functionality, the game is de
 
 Community-Focused: At its core, XPerience seeks to build a community that contributes to and benefits from philanthropic work. By combining fun gameplay with real-world impact, XPerience promotes a culture of community service and mutual growth.
 
+# Template Guidline 
+
+The attached submodule is for a 2D role-playing game (RPG) built in Unity using Thirdweb GamingKit. The game allows players to speak with non-player characters (NPCs) and complete quests to earn ERC20 tokens, which can then be used to buy non-fungible tokens (NFTs) from the in-game shop.
+
+The game uses three smart contracts to manage in-game assets:
+
+## Token Drop: This contract controls the ERC20 tokens that players can earn by completing quests.
+
+## Edition: This contract controls the NFTs that players can buy from the in-game shop.
+
+## Marketplace: This contract allows players to buy and sell NFTs with each other.
+
+To play the game, users first need to connect their wallet to the game. Once their wallet is connected, they can start speaking with NPCs and completing quests. When a player completes a quest, they will earn ERC20 tokens. These tokens can then be used to buy NFTs from the in-game shop.
+
+The game is still under development, but it is a good example of how to build a web3 game using Unity and Thirdweb GamingKit. THis will be the base for our game and we will be tweaking this tempalte to suit the above decribed gameplay plan and features. 
+
+Here are some additional details about the code:
+
+The game is written in C#.
+The game uses the Unity game engine.
+The game uses the Thirdweb GamingKit to interact with the blockchain.
+The game is currently deployed on the Optimism Goerli network.
+
 # Contributing
 
 We welcome contributions to Xperience! If you'd like to contribute, please fork the repository and make changes as you'd like. If you have any suggestions or feature requests, please open an issue to discuss what you would like to change.
