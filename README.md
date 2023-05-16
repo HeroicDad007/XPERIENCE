@@ -38,6 +38,8 @@ Dynamic Gameplay: Players navigate through 'Tshwaneville', a virtual world, inte
 
 Volunteer Work Integration: The main missions link players to non-profits in need of service. Upon completion of volunteer work, players receive a unique NFT, serving as a digital receipt for their volunteering.
 
+Simple Web3 Onboarding - Wallet Integration will be the first interaction the players character will face upon entering 'Tshwaneville'. This will enable users to store their tokens and view their NFTs and interact with the various assets in the game.
+
 Unique NFT Rewards: Players are incentivized for their service with unique NFT rewards that are minted upon completion of volunteer work. These NFTs are not just mere tokens but hold value in the XPNC ecosystem.
 
 Economic Incentives via Staking: Players have the option to stake their NFTs or XPNC tokens directly in the community treasury. This staking mechanism allows for earning passive income, thereby creating a sustainable economic loop within the ecosystem.
